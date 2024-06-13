@@ -1,33 +1,20 @@
 <p align="center">
-<a href="https://github.com/Dr.Lebede Ngartera">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=LEBEDE+Ngartera+|Researcher+|Data+Scientist+|Data Analyst;+ML+|AI|+PhD+in+Mathematics+|Analysis+Statistics+ Applications; Digital Transformation|Data Driven Decision+Making;****************************************************************" alt="Typing SVG" />
-
-
+<a href="https://github.com/Dr Lebede Ngartera">
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=LEBEDE+Ngartera+|Researcher+|Data+Scientist+|Data Analyst;+ML+|AI|+PhD+in+Mathematics+|Analysis+Statistics+ Applications; Digital Transformation|Data Driven Decision+Making;****************************************************************" alt="Typing SVG" />      
 </a>
-<br/>
+    <a href="https://github.com/Teraces12">
+    <img src="https://github.com/Teraces12/NATURAL-LANGUAGE-PROCESSING-NLP-FOR-CUSTOMER-SENTIMENTS/blob/main/Screenshot%202024-06-12%20203219.png?raw=true">
+</a>
 <a href="https://www.linkedin.com/in/lebede-ngartera-82429343/">
-    <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
+    <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">  
 </a>
 <a href="mailto:ngarteralebede12@gmail.com">
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
-</a>
-<!-- <a href="https://pypi.org/user/lebede/">
-    <img src="https://komarev.com/ghpvc/?username=drkostas&label=Visitors&color=0e75b6&style=flat" alt="googoldkhan" />
-</a> -->
 
-<!-- <a href="https://github.com/drkostas">
-    <img src="https://github-readme-stats.vercel.app/api?username=drkostas&show_icons=true&count_private=true&show_icons=true&hide_border=true&hide_title=true&card_width=300px&hide_rank=true&bg_color=00000000&theme=dracula">
-</a> -->
 
-<a href="https://github.com/drkostas">
-    <img src="https://github-stats-alpha.vercel.app/api?username=drkostas&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
-</a>
+* 📖 PhD in Ph.D in Maths [Analysis, Statistics & Applications];  @ [University Cheikh Anta Diop](https://bredesencenter.utk.edu/the-data-science-and-engineering-phd/). 
 
-</p>
-
-* 📖 Pursuing PhD in Data Science & Engineering @ [The University of Tennessee](https://bredesencenter.utk.edu/the-data-science-and-engineering-phd/). 
-
-* 🎓 Conducting research on **AI** and **Computer Vision** @ [the AICIP Lab](https://aicip.github.io/research.htm).
+* 🎓 Research on **Modeling Air Quality Index**, **Analysis-Statistics-Applications** @ [Department Mathematics and Applications(FST), Operational Reseach|Mathematics of Decision Making Lab](https://aicip.github.io/research.htm).
 
 * 💻 Currently building Masked Image Modeling models for Remote Sensing data. 
 
@@ -35,7 +22,7 @@
 <table>
 <tr><th>Machine Learning </th><th>PyPi Packages</th></tr>
 <tr><td>
-https://github.com/Teraces12/NATURAL-LANGUAGE-PROCESSING-NLP-FOR-CUSTOMER-SENTIMENTS/blob/main/Screenshot%202024-06-12%20203219.png?raw=true
+
 <br/> 
 
 |Title | Stars | Technologies|
