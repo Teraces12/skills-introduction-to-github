@@ -19,9 +19,9 @@
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
 
 
-* 📖 PhD in Ph.D in Maths [Analysis, Statistics & Applications];  @ [University Cheikh Anta Diop](https://bredesencenter.utk.edu/the-data-science-and-engineering-phd/). 
+* 📖 PhD in Ph.D in Maths [Analysis, Statistics & Applications];  @ [University Cheikh Anta Diop](https://fst.ucad.sn/content/d%C3%A9partement-de-math%C3%A9matiques-informatique) 
 
-* 🎓 Research on **Modeling Air Quality Index**, **Analysis-Statistics-Applications** @ [Department Mathematics and Applications(FST), Operational Reseach|Mathematics of Decision Making Lab](https://aicip.github.io/research.htm).
+* 🎓 Research on **Modeling Air Quality Index**, **Analysis-Statistics-Applications** @ [Department Mathematics and Applications(FST), Operational Reseach|Mathematics of Decision Making Lab](https://fst.ucad.sn/content/d%C3%A9partement-de-math%C3%A9matiques-informatique).
 
 * 💻 Currently building Masked Image Modeling models for Remote Sensing data. 
 
