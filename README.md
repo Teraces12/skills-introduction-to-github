@@ -1,75 +1,103 @@
-<header>
+<p align="center">
+<a href="https://github.com/Dr.Lebede Ngartera">
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=LEBEDE+Ngartera+|Researcher+|Data+Scientist+|Data Analyst;+ML+|AI|+PhD+in+Mathematics+|Analysis+Statistics+ Applications; Digital Transformation|Data Driven Decision+Making;****************************************************************" alt="Typing SVG" />
 
-<!--
-  <<< Author notes: Course header >>>
-  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Add your open source license, GitHub uses MIT license.
--->
 
-# Introduction to GitHub
+</a>
+<br/>
+<a href="https://www.linkedin.com/in/lebede-ngartera-82429343/">
+    <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
+</a>
+<a href="mailto:ngarteralebede12@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
+</a>
+<!-- <a href="https://pypi.org/user/lebede/">
+    <img src="https://komarev.com/ghpvc/?username=drkostas&label=Visitors&color=0e75b6&style=flat" alt="googoldkhan" />
+</a> -->
 
-_Get started using GitHub in less than an hour._
+<!-- <a href="https://github.com/drkostas">
+    <img src="https://github-readme-stats.vercel.app/api?username=drkostas&show_icons=true&count_private=true&show_icons=true&hide_border=true&hide_title=true&card_width=300px&hide_rank=true&bg_color=00000000&theme=dracula">
+</a> -->
 
-</header>
+<a href="https://github.com/drkostas">
+    <img src="https://github-stats-alpha.vercel.app/api?username=drkostas&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
+</a>
 
-<!--
-  <<< Author notes: Step 1 >>>
-  Choose 3-5 steps for your course.
-  The first step is always the hardest, so pick something easy!
-  Link to docs.github.com for further explanations.
-  Encourage users to open new tabs for steps!
--->
+</p>
 
-## Step 1: Create a branch
+* 📖 Pursuing PhD in Data Science & Engineering @ [The University of Tennessee](https://bredesencenter.utk.edu/the-data-science-and-engineering-phd/). 
 
-_Welcome to "Introduction to GitHub"! :wave:_
+* 🎓 Conducting research on **AI** and **Computer Vision** @ [the AICIP Lab](https://aicip.github.io/research.htm).
 
-**What is GitHub?**: GitHub is a collaboration platform that uses _[Git](https://docs.github.com/get-started/quickstart/github-glossary#git)_ for versioning. GitHub is a popular place to share and contribute to [open-source](https://docs.github.com/get-started/quickstart/github-glossary#open-source) software.
-<br>:tv: [Video: What is GitHub?](https://www.youtube.com/watch?v=pBy1zgt0XPc)
+* 💻 Currently building Masked Image Modeling models for Remote Sensing data. 
 
-**What is a repository?**: A _[repository](https://docs.github.com/get-started/quickstart/github-glossary#repository)_ is a project containing files and folders. A repository tracks versions of files and folders. For more information, see "[About repositories](https://docs.github.com/en/repositories/creating-and-managing-repositories/about-repositories)" from GitHub Docs.
+### 🖥️ Open-Source Projects
+<table>
+<tr><th>Machine Learning </th><th>PyPi Packages</th></tr>
+<tr><td>
+https://github.com/Teraces12/NATURAL-LANGUAGE-PROCESSING-NLP-FOR-CUSTOMER-SENTIMENTS/blob/main/Screenshot%202024-06-12%20203219.png?raw=true
+<br/> 
 
-**What is a branch?**: A _[branch](https://docs.github.com/en/get-started/quickstart/github-glossary#branch)_ is a parallel version of your repository. By default, your repository has one branch named `main` and it is considered to be the definitive branch. Creating additional branches allows you to copy the `main` branch of your repository and safely make any changes without disrupting the main project. Many people use branches to work on specific features without affecting any other parts of the project.
+|Title | Stars | Technologies|
+|--|--|--|
+| [Minecraft-AI](https://github.com/drkostas/Minecraft-AI) | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/Minecraft-AI?style=flat-square&labelColor=black"/> | ![TF](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow)|
+| [3D Semantic Segmentation](https://github.com/drkostas/3D-Semantic-Segmentation) | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/3D-Semantic-Segmentation?style=flat-square&labelColor=black"/> | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) ![OpenCV](https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=opencv)|
+| [Bert Rinehart Novels](https://github.com/drkostas/Bert-Rinehart-Novels) | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/Bert-Question-Answering?style=flat-square&labelColor=black"/> | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) ![Spacy](https://img.shields.io/badge/Spacy-black?style=flat-square&logo=spacy)|
+| [Car Accidents Pred.](https://github.com/drkostas/accident-severity-prediction) | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/accident-severity-prediction?style=flat-square&labelColor=black"/> | ![Pandas](https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas) ![SciPy](https://img.shields.io/badge/SciPy-black?style=flat-square&logo=scipy)|
+| [Hybrid Girvan Newman](https://github.com/drkostas/HGN) | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/HGN?style=flat-square&labelColor=black"/> | [![HGNPub](https://img.shields.io/badge/Published-black?style=flat-square&logo=googlescholar)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=b___QQ8AAAAJ&authuser=1&citation_for_view=b___QQ8AAAAJ:u5HHmVD_uO8C) ![PySpark](https://img.shields.io/badge/Spark-black?style=flat-square&logo=apachespark) <br> ![MySQL](https://img.shields.io/badge/MySQL-black?style=flat-square&logo=mysql)|
+| [COVID19 Vacc. Pred.](https://github.com/drkostas/covid19-vaccinations-predict) | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/covid19-vaccinations-predict?style=flat-square&labelColor=black"/> | ![TF](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow)|
+| [Instagram Likes Pred.](https://github.com/drkostas/Insta-Likes-Predict) | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/Insta-Likes-Predict?style=flat-square&labelColor=black"/> | ![TF](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow) ![OpenCV](https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=opencv)|
+| [RL Value Iteration](https://github.com/drkostas/RL-Value-Iteration) | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/RL-Value-Iteration?style=flat-square&labelColor=black"/> | ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy)|
+| [Vanilla Numpy CNN](https://github.com/drkostas/Numpy-CNN) | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/Numpy-CNN?style=flat-square&labelColor=black"/> | ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy)|
+| [Vanilla Numpy NN](https://github.com/drkostas/Numpy-NeuralNet-1) | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/Numpy-NeuralNet-1?style=flat-square&labelColor=black"/> | ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy)|
 
-Branches allow you to separate your work from the `main` branch. In other words, everyone's work is safe while you contribute. For more information, see "[About branches](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-branches)".
+</td><td>
 
-**What is a profile README?**: A _[profile README](https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme)_ is essentially an "About me" section on your GitHub profile where you can share information about yourself with the community on GitHub.com. GitHub shows your profile README at the top of your profile page. For more information, see "[Managing your profile README](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme)".
+|Title | Stars | Technologies|
+|--|--|--|
+| [High SQL](https://github.com/drkostas/high-sql) | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/high-sql?style=flat-square&labelColor=black"/> | [![SQLPyPi](https://img.shields.io/badge/PyPi-black?style=flat-square&logo=pypi)](https://pypi.org/project/high-sql/) ![MySQL](https://img.shields.io/badge/MySQL-black?style=flat-square&logo=mysql) <br> ![CircleCI](https://img.shields.io/badge/CI-black?style=flat-square&logo=circleci) [![SQLDown](https://static.pepy.tech/personalized-badge/high-sql?period=total&units=international_system&left_color=black&right_color=red&left_text=Downloads)](https://pepy.tech/project/high-sql) |
+| [Cloud File Manager](https://github.com/drkostas/cloud-filemanager) | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/cloud-filemanager?style=flat-square&labelColor=black"/> | [![CloudPyPi](https://img.shields.io/badge/PyPi-black?style=flat-square&logo=pypi)](https://pypi.org/project/cloud-filemanager/) ![Dropbox](https://img.shields.io/badge/API-black?style=flat-square&logo=dropbox) <br> ![CircleCI](https://img.shields.io/badge/CI-black?style=flat-square&logo=circleci) [![CloudDown](https://static.pepy.tech/personalized-badge/cloud-filemanager?period=total&units=international_system&left_color=black&right_color=red&left_text=Downloads)](https://pepy.tech/project/cloud-filemanager)|
+| [YAML Wrapper](https://github.com/drkostas/yaml-config-wrapper) | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/yaml-config-wrapper?style=flat-square&labelColor=black"/> | [![YamlPyPi](https://img.shields.io/badge/PyPi-black?style=flat-square&logo=pypi)](https://pypi.org/project/yaml-config-wrapper/)![CircleCI](https://img.shields.io/badge/CI-black?style=flat-square&logo=circleci) <br> [![YAMLDown](https://static.pepy.tech/personalized-badge/yaml-config-wrapper?period=total&units=international_system&left_color=black&right_color=red&left_text=Downloads)](https://pepy.tech/project/yaml-config-wrapper)|
+| [Color Logger](https://github.com/drkostas/termcolor-logger) | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/termcolor-logger?style=flat-square&labelColor=black"/> | [![LogPyPi](https://img.shields.io/badge/PyPi-black?style=flat-square&logo=pypi)](https://pypi.org/project/termcolor-logger/) ![CircleCI](https://img.shields.io/badge/CI-black?style=flat-square&logo=circleci) <br>[![LogDown](https://static.pepy.tech/personalized-badge/termcolor-logger?period=total&units=international_system&left_color=black&right_color=red&left_text=Downloads)](https://pepy.tech/project/termcolor-logger)|
+| [Email Sender](https://github.com/drkostas/pyemail-sender) | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/pyemail-sender?style=flat-square&labelColor=black"/> | [![MailPyPi](https://img.shields.io/badge/PyPi-black?style=flat-square&logo=pypi)](https://pypi.org/project/pyemail-sender/) ![Gmail](https://img.shields.io/badge/API-black?style=flat-square&logo=gmail) <br> ![CircleCI](https://img.shields.io/badge/CI-black?style=flat-square&logo=circleci) [![MailDown](https://static.pepy.tech/personalized-badge/pyemail-sender?period=total&units=international_system&left_color=black&right_color=red&left_text=Downloads)](https://pepy.tech/project/pyemail-sender) |
+| [Benchmark Tools](https://github.com/drkostas/bench-utils) | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/bench-utils?style=flat-square&labelColor=black"/> | [![BenchPyPi](https://img.shields.io/badge/PyPi-black?style=flat-square&logo=pypi)](https://pypi.org/project/bench-utils/) ![CircleCI](https://img.shields.io/badge/CI-black?style=flat-square&logo=circleci) <br> [![BenchDown](https://static.pepy.tech/personalized-badge/bench-utils?period=total&units=international_system&left_color=black&right_color=red&left_text=Downloads)](https://pepy.tech/project/bench-utils) |
 
-![profile-readme-example](/images/profile-readme-example.png)
+</td></tr> </table>
 
-### :keyboard: Activity: Your first branch
+<table>
+<tr><th>Bots </th><th>Misc Projects </th></tr>
+<tr><td>
 
-1. Open a new browser tab and navigate to your newly made repository. Then, work on the steps in your second tab while you read the instructions in this tab.
-2. Navigate to the **< > Code** tab in the header menu of your repository.
+|Title | Stars | Technologies|
+|--|--|--|
+| [Youtube Comment Bot](https://github.com/drkostas/Youtube-FirstCommentBot) | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/Youtube-FirstCommentBot?style=flat-square&labelColor=black"/> | ![YT](https://img.shields.io/badge/API-black?style=flat-square&logo=youtube) ![Gmail](https://img.shields.io/badge/API-black?style=flat-square&logo=gmail) ![Dropbox](https://img.shields.io/badge/API-black?style=flat-square&logo=dropbox)<br> ![MySQL](https://img.shields.io/badge/MySQL-black?style=flat-square&logo=mysql) ![RDS](https://img.shields.io/badge/RDS-black?style=flat-square&logo=amazonaws)<br> ![CircleCI](https://img.shields.io/badge/CI-black?style=flat-square&logo=circleci) ![Heroku](https://img.shields.io/badge/Heroku-black?style=flat-square&logo=heroku) |
+| [Job Application Bot](https://github.com/drkostas/JobApplicationBot) | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/JobApplicationBot?style=flat-square&labelColor=black"/> | ![Gmail](https://img.shields.io/badge/API-black?style=flat-square&logo=gmail) ![Dropbox](https://img.shields.io/badge/API-black?style=flat-square&logo=dropbox)<br> ![MySQL](https://img.shields.io/badge/MySQL-black?style=flat-square&logo=mysql) ![RDS](https://img.shields.io/badge/RDS-black?style=flat-square&logo=amazonaws)<br> ![CircleCI](https://img.shields.io/badge/CI-black?style=flat-square&logo=circleci) ![Heroku](https://img.shields.io/badge/Heroku-black?style=flat-square&logo=heroku) |
 
-   ![code-tab](/images/code-tab.png)
+</td><td>
 
-3. Click on the **main** branch drop-down.
+|Title | Stars | Technologies|
+|--|--|--|
+| [Spotify Button Presser](https://github.com/drkostas/SpotiClick) | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/SpotiClick?style=flat-square&labelColor=black"/> | ![Raspberry](https://img.shields.io/badge/Raspberry-black?style=flat-square&logo=Raspberry) ![Spotify](https://img.shields.io/badge/API-black?style=flat-square&logo=spotify) <br> ![Switchbot](https://img.shields.io/badge/SwitchBot-black?style=flat-square&logo=arduino)|
+| [Cross The Floor](https://github.com/drkostas/Cross-The-Floor) | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/Cross-The-Floor?style=flat-square&labelColor=black"/> | ![Sankey Diagram](https://img.shields.io/badge/Sankey-black?style=flat-square&logo=plotly) <br> ![Wiki](https://img.shields.io/badge/Scrapper-black?style=flat-square&logo=wikipedia)|
+| [2D Shooter Game](https://github.com/drkostas/shooter-game-with-p5js) | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/shooter-game-with-p5js?style=flat-square&labelColor=black"/> | ![p5](https://img.shields.io/badge/P5.js-black?style=flat-square&logo=p5dotjs)|
+| [Quantum Mechanics Quiz App](https://github.com/drkostas/Quantum-Mechanics-Quiz-App) | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/Quantum-Mechanics-Quiz-App?style=flat-square&labelColor=black"/> | ![android](https://img.shields.io/badge/App-black?style=flat-square&logo=android)|
 
-   ![main-branch-dropdown](/images/main-branch-dropdown.png)
+</td></tr> </table>
 
-4. In the field, name your branch `my-first-branch`. In this case, the name must be `my-first-branch` to trigger the course workflow.
-5. Click **Create branch: my-first-branch** to create your branch.
+<details>
+<summary>📈 Stats</summary>
+<br>
+My Github Stats
 
-   ![create-branch-button](/images/create-branch-button.png)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=drkostas&theme=dracula) 
 
-   The branch will automatically switch to the one you have just created.
-   The **main** branch drop-down bar will reflect your new branch and display the new branch name.
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=drkostas&theme=dracula) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=drkostas&theme=dracula)
 
-6. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
 
-<footer>
+<br>
+Currently Coding & Listening to:
 
-<!--
-  <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link.
--->
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11159336621&cover_image=true&theme=novatorem&show_offline=true&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/11159336621)
 
----
-
-Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/introduction-to-github) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
-
-&copy; 2024 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
-
-</footer>
+</details>
