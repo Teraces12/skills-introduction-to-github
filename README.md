@@ -1,26 +1,44 @@
-
 <h1 align="center" style="color:red;">Welcome</h1>
 
 <p align="center">
-Greetings! I'm Lebede Ngartera, and I'm excited to share my research and projects with you. Feel free to browse through my work and reach out for collaboration opportunities.
+<b>Greetings! I'm Lebede Ngartera, and I'm excited to share my research and projects with you. Feel free to browse through my work and reach out for collaboration opportunities.</b>
 </p>
 
+<p align="center">
+<a href="https://github.com/DrLebedeNgartera">
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=LEBEDE+Ngartera+|+Researcher+|+Data+Scientist+|+Data+Analyst;+ML+|+AI|+PhD+in+Mathematics+|+Analysis+Statistics+Applications;+Digital+Transformation|Data+Driven+Decision+Making" alt="Typing SVG" />      
+</a>
+</p>
 
 <p align="center">
-<a href="https://github.com/Dr Lebede Ngartera">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=LEBEDE+Ngartera+|Researcher+|Data+Scientist+|Data Analyst;+ML+|AI|+PhD+in+Mathematics+|Analysis+Statistics+ Applications; Digital Transformation|Data Driven Decision+Making;****************************************************************" alt="Typing SVG" />      
+<table>
+  <tr>
+    <td><img src="https://github.com/Teraces12/LebedeNgartera/blob/main/ai.png" alt="AI Logo" width="400" height="240"></td>
+    <td><img src="https://github.com/Teraces12/LebedeNgartera/blob/main/ml.png" alt="ML Logo" width="400" height="240"></td>
+    <td><img src="https://github.com/Teraces12/LebedeNgartera/blob/main/win.png" alt="Data Science Logo" width="400" height="240"></td>
+       </tr>
+</table>
+</p>
 
+<p align="center">
+    <img src="https://github.com/Teraces12/NATURAL-LANGUAGE-PROCESSING-NLP-FOR-CUSTOMER-SENTIMENTS/blob/main/Screenshot%202024-06-12%20203219.png?raw=true" alt="Research Image" style="width:240px;height:240px;">
+</p>
 
-
-</a>
-    <a href="https://github.com/Teraces12">
-    <img src="https://github.com/Teraces12/NATURAL-LANGUAGE-PROCESSING-NLP-FOR-CUSTOMER-SENTIMENTS/blob/main/Screenshot%202024-06-12%20203219.png?raw=true">
-</a>
+<p align="center">
 <a href="https://www.linkedin.com/in/lebede-ngartera-82429343/">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">  
 </a>
 <a href="mailto:ngarteralebede12@gmail.com">
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
+</a>
+</p>
+
+---
+
+
+---
+
+### 📖 Education
 
 
 * 📖 PhD in Ph.D in Maths [Analysis, Statistics & Applications];  @ [University Cheikh Anta Diop](https://fst.ucad.sn/content/d%C3%A9partement-de-math%C3%A9matiques-informatique) 
