@@ -1,5 +1,9 @@
 
+<h1 align="center" style="color:red;">Welcome</h1>
 
+<p align="center">
+Greetings! I'm Lebede Ngartera, and I'm excited to share my research and projects with you. Feel free to browse through my work and reach out for collaboration opportunities.
+</p>
 
 
 <p align="center">
