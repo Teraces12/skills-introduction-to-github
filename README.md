@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-    <img src="https://github.com/Teraces12/NATURAL-LANGUAGE-PROCESSING-NLP-FOR-CUSTOMER-SENTIMENTS/blob/main/Screenshot%202024-06-12%20203219.png?raw=true" alt="Research Image" style="width:240px;height:240px;">
+    <img src="https://github.com/Teraces12/NATURAL-LANGUAGE-PROCESSING-NLP-FOR-CUSTOMER-SENTIMENTS/blob/main/Tera.png?raw=true" alt="Research Image" style="width:240px;height:240px;">
 </p>
 
 <p align="center">
