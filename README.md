@@ -1,4 +1,6 @@
-<h1 align="center" style="color:red;">Welcome to My Data Science & AI Portfolio</h1>
+<h1 align="center" style="color:#FF5733; font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+  🚀 Welcome to My Data Science & AI Portfolio
+</h1>
 
 <p align="center">
   Greetings! I'm <strong>Lebede Ngartera</strong>, a passionate researcher and practitioner in Artificial Intelligence, Data Science, and Machine Learning.  
@@ -14,25 +16,24 @@
 <p align="center">
   <table>
     <tr>
-      <td>
-        <img src="https://github.com/Teraces12/LebedeNgartera/blob/main/Tera22.png?raw=true" alt="AI-Data Question" width="300" height="240">
+      <td align="center">
+        <img src="https://github.com/Teraces12/LebedeNgartera/blob/main/Tera22.png?raw=true" alt="AI-Data Question" width="300" height="240"><br>
+        <sub><b>What Can AI & Data Science Do?</b></sub>
       </td>
-      <td>
-        <img src="https://github.com/Teraces12/LebedeNgartera/blob/main/Tera12.png?raw=true" alt="Data Science Infographic" width="300" height="240">
+      <td align="center">
+        <img src="https://github.com/Teraces12/LebedeNgartera/blob/main/Tera12.png?raw=true" alt="Data Science Infographic" width="300" height="240"><br>
+        <sub><b>Tools & Workflow</b></sub>
       </td>
-      <td>
-        <img src="https://github.com/Teraces12/LebedeNgartera/blob/main/win.png?raw=true" alt="Winning Space Race with Data Science" width="300" height="240">
+      <td align="center">
+        <img src="https://github.com/Teraces12/LebedeNgartera/blob/main/win.png?raw=true" alt="Winning Space Race with Data Science" width="300" height="240"><br>
+        <sub><b>Research Presentation</b></sub>
       </td>
     </tr>
   </table>
 </p>
 
-
-
-
-
 <p align="center">
-    <img src="https://github.com/Teraces12/NATURAL-LANGUAGE-PROCESSING-NLP-FOR-CUSTOMER-SENTIMENTS/blob/main/Tera.png?raw=true" alt="Research Image" style="width:240px;height:240px;">
+    <img src="https://github.com/Teraces12/NATURAL-LANGUAGE-PROCESSING-NLP-FOR-CUSTOMER-SENTIMENTS/blob/main/Tera.png?raw=true" alt="Research Image" width="240" height="240">
 </p>
 
 <p align="center">
@@ -45,18 +46,35 @@
 </p>
 
 ---
+### 🔬 About Me
+
+I’m Lebede Ngartera, a data scientist and AI strategist with a Ph.D. in Applied Mathematics and 10+ years of experience at the intersection of machine learning, analytics, and intelligent automation.
+
+🔍 I design and deploy AI solutions that turn complex data into actionable insights—optimizing LLMs, building scalable ML pipelines, and applying statistical precision across healthcare, finance, and emerging tech.
+
+💼 I Help Organizations:
+- Translate ML innovation into business value
+- Build scalable AI/MLOps infrastructure
+- Drive insights via data mining & predictive analytics
+- Automate operations, marketing & product workflows
+- Align AI with real-world, people-centered impact
+
+🧠 Core Skills:
+- AI/ML: GPT, RAG (DPR, embeddings), NLP, Generative AI
+- Data Science: Bayesian modeling, predictive analytics
+- MLOps: CI/CD, model lifecycle, workflow orchestration
+- Stack: Python, R, SQL, Spark, Azure, AWS, Databricks
+- Tools: Tableau, Power BI, QlikView
+- Leadership: Cross-functional AI delivery, mentoring
+
+Open to consulting, collaboration, and partnerships in AI, NLP, and data-driven transformation.
+---
+
+---
 
 
 ---
 
-### 📖 Education
-
-
-* 📖 PhD in Ph.D in Maths [Analysis, Statistics & Applications];  @ [University Cheikh Anta Diop](https://fst.ucad.sn/content/d%C3%A9partement-de-math%C3%A9matiques-informatique) 
-
-* 🎓 Research on **Modeling Air Quality Index**, **Analysis-Statistics-Applications** @ [Department Mathematics and Applications(FST), Operational Reseach|Mathematics of Decision Making Lab](https://fst.ucad.sn/content/d%C3%A9partement-de-math%C3%A9matiques-informatique).
-
-* 💻 Currently building Masked Image Modeling models for Remote Sensing data. 
 
 ### 🖥️ Open-Source Projects
 <table>
