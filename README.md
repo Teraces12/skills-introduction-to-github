@@ -14,8 +14,8 @@
 <p align="center">
 <table>
   <tr>
-    <td><img src="https://github.com/Teraces12/LebedeNgartera/blob/main/ai.png" alt="Tera22" width="400" height="240"></td>
-    <td><img src="https://github.com/Teraces12/LebedeNgartera/blob/main/ml.png" alt="Tera11" width="400" height="240"></td>
+    <td><img src="https://github.com/Teraces12/LebedeNgartera/blob/main/Tera22.png" alt="Tera22" width="400" height="240"></td>
+    <td><img src="https://github.com/Teraces12/LebedeNgartera/blob/main/Tera11.png" alt="Tera11" width="400" height="240"></td>
     <td><img src="https://github.com/Teraces12/LebedeNgartera/blob/main/win.png" alt="Data Science Logo" width="400" height="240"></td>
        </tr>
 </table>
