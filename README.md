@@ -12,14 +12,21 @@
 </p>
 
 <p align="center">
-<table>
-  <tr>
-    <td><img src="https://github.com/Teraces12/LebedeNgartera/blob/main/Tera22.png" alt="Tera22" width="400" height="240"></td>
-    <td><img src="https://github.com/Teraces12/LebedeNgartera/blob/main/Tera11.png" alt="Tera11" width="400" height="240"></td>
-    <td><img src="https://github.com/Teraces12/LebedeNgartera/blob/main/win.png" alt="Data Science Logo" width="400" height="240"></td>
-       </tr>
-</table>
+  <table>
+    <tr>
+      <td>
+        <img src="https://github.com/Teraces12/LebedeNgartera/blob/main/images/A_digital_graphic_design_showcases_a_question_abou.png?raw=true" alt="AI-Data Question" width="400" height="240">
+      </td>
+      <td>
+        <img src="https://github.com/Teraces12/LebedeNgartera/blob/main/images/A_digital_graphic_design_infographic_showcases_dat.png?raw=true" alt="Data Science Infographic" width="400" height="240">
+      </td>
+      <td>
+        <img src="https://github.com/Teraces12/LebedeNgartera/blob/main/images/A_screenshot_of_a_personal_GitHub_profile_page_fea.png?raw=true" alt="GitHub Project Snapshot" width="400" height="240">
+      </td>
+    </tr>
+  </table>
 </p>
+
 
 <p align="center">
     <img src="https://github.com/Teraces12/NATURAL-LANGUAGE-PROCESSING-NLP-FOR-CUSTOMER-SENTIMENTS/blob/main/Tera.png?raw=true" alt="Research Image" style="width:240px;height:240px;">
