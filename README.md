@@ -1,7 +1,8 @@
-<h1 align="center" style="color:red;">Welcome</h1>
+<h1 align="center" style="color:red;">Welcome to My Data Science & AI Portfolio</h1>
 
 <p align="center">
-<b>Greetings! I'm Lebede Ngartera, and I'm excited to share my research and projects with you. Feel free to browse through my work and reach out for collaboration opportunities.</b>
+  Greetings! I'm <strong>Lebede Ngartera</strong>, a passionate researcher and practitioner in Artificial Intelligence, Data Science, and Machine Learning.  
+  I’m excited to share my work, ideas, and projects with you. Feel free to browse, explore, and connect!
 </p>
 
 <p align="center">
@@ -13,8 +14,8 @@
 <p align="center">
 <table>
   <tr>
-    <td><img src="https://github.com/Teraces12/LebedeNgartera/blob/main/ai.png" alt="AI Logo" width="400" height="240"></td>
-    <td><img src="https://github.com/Teraces12/LebedeNgartera/blob/main/ml.png" alt="ML Logo" width="400" height="240"></td>
+    <td><img src="https://github.com/Teraces12/LebedeNgartera/blob/main/ai.png" alt="Tera11" width="400" height="240"></td>
+    <td><img src="https://github.com/Teraces12/LebedeNgartera/blob/main/ml.png" alt="Tera12" width="400" height="240"></td>
     <td><img src="https://github.com/Teraces12/LebedeNgartera/blob/main/win.png" alt="Data Science Logo" width="400" height="240"></td>
        </tr>
 </table>
