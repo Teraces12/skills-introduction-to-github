@@ -21,7 +21,7 @@
         <img src="https://github.com/Teraces12/LebedeNgartera/blob/main/Tera11.png?raw=true" alt="Data Science Infographic" width="400" height="240">
       </td>
       <td>
-        <img src="https://github.com/Teraces12/LebedeNgartera/blob/main/win.png?raw=true" alt="GitHub Project Snapshot" width="400" height="240">
+        <img src="https://github.com/Teraces12/LebedeNgartera/blob/main/win.png?raw=true" alt="Winning Space Race with Data Science" width="400" height="240">
       </td>
     </tr>
   </table>
