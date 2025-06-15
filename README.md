@@ -1,74 +1,83 @@
-<h1 align="center" style="color:#FF5733; font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
-  🚀 Welcome to My Data Science & AI Portfolio
+<h1 align="center" style="color:#00ADB5; font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+  🚀 Welcome to My AI & Data Science Portfolio
 </h1>
+<h3 align="center" style="color:#FF6EC7; font-style: italic; font-weight: 500; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+  🚀 Transforming Data into Intelligence | Empowering Decisions with AI 🧠
+</h3>
 
-<p align="center">
-  Greetings! I'm <strong>Lebede Ngartera</strong>, a passionate researcher and practitioner in Artificial Intelligence, Data Science, and Machine Learning.  
-  I’m excited to share my work, ideas, and projects with you. Feel free to browse, explore, and connect!
+
+<p align="center" style="font-size: 16px; color: #CCCCCC;">
+  <strong>I’m <span style="color:#FFFFFF;">Lebede Ngartera</span></strong> — AI & Data Strategist, Ph.D. in Applied Mathematics,  
+  and a practitioner of NLP, LLMs, and intelligent automation.
+  <br/>
+  I design data-driven systems at the intersection of research, machine learning, and real-world business impact.
 </p>
 
-<p align="center">
-<a href="https://github.com/DrLebedeNgartera">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=LEBEDE+Ngartera+|+Researcher+|+Data+Scientist+|+Data+Analyst;+ML+|+AI|+PhD+in+Mathematics+|+Analysis+Statistics+Applications;+Digital+Transformation|Data+Driven+Decision+Making" alt="Typing SVG" />      
-</a>
+<p align="center" style="margin-top: 30px;">
+  <a href="https://github.com/DrLebedeNgartera">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Lebede+Ngartera+|+AI+Strategist+%26+Researcher;Ph.D.+in+Applied+Mathematics+|+LLMs,+NLP,+MLOps;Data-Driven+Innovation+|+Machine+Learning+for+Impact&repeat=true" alt="Typing animation with background cursor" />
+  </a>
 </p>
 
-<p align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://github.com/Teraces12/LebedeNgartera/blob/main/Tera22.png?raw=true" alt="AI-Data Question" width="300" height="240"><br>
-        <sub><b>What Can AI & Data Science Do?</b></sub>
-      </td>
-      <td align="center">
-        <img src="https://github.com/Teraces12/LebedeNgartera/blob/main/Tera12.png?raw=true" alt="Data Science Infographic" width="300" height="240"><br>
-        <sub><b>Tools & Workflow</b></sub>
-      </td>
-      <td align="center">
-        <img src="https://github.com/Teraces12/LebedeNgartera/blob/main/win.png?raw=true" alt="Winning Space Race with Data Science" width="300" height="240"><br>
-        <sub><b>Research Presentation</b></sub>
-      </td>
-    </tr>
-  </table>
-</p>
 
-<p align="center">
-    <img src="https://github.com/Teraces12/NATURAL-LANGUAGE-PROCESSING-NLP-FOR-CUSTOMER-SENTIMENTS/blob/main/Tera.png?raw=true" alt="Research Image" width="240" height="240">
-</p>
+<hr style="margin: 30px 0; border: none; border-top: 1px solid #444;">
 
-<p align="center">
-<a href="https://www.linkedin.com/in/lebede-ngartera-82429343/">
-    <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">  
-</a>
-<a href="mailto:ngarteralebede12@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
-</a>
-</p>
 
 ---
+
+<h3 align="left">🧠 What Can AI & Data Science Do?</h3>
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="280">
+      <img src="https://github.com/Teraces12/LebedeNgartera/blob/main/Tera22.png?raw=true" width="260" alt="Applied AI">
+      <br><sub><strong>Applied AI & Decision Making</strong></sub>
+    </td>
+    <td align="center" width="280">
+      <img src="https://github.com/Teraces12/LebedeNgartera/blob/main/Tera12.png?raw=true" width="260" alt="Tools & Workflow">
+      <br><sub><strong>Tools, Pipelines & Stack</strong></sub>
+    </td>
+    <td align="center" width="280">
+      <img src="https://github.com/Teraces12/LebedeNgartera/blob/main/win.png?raw=true" width="260" alt="Research Presentation">
+      <br><sub><strong>Research + Real-World Value</strong></sub>
+    </td>
+  </tr>
+</table>
+
+</div>
+
 ### 🔬 About Me
 
-I’m Lebede Ngartera, a data scientist and AI strategist with a Ph.D. in Applied Mathematics and 10+ years of experience at the intersection of machine learning, analytics, and intelligent automation.
+I’m **Lebede Ngartera** — an AI & Data Strategist with a Ph.D. in Applied Mathematics and 10+ years of experience at the intersection of machine learning, analytics, and intelligent automation.
 
-🔍 I design and deploy AI solutions that turn complex data into actionable insights—optimizing LLMs, building scalable ML pipelines, and applying statistical precision across healthcare, finance, and emerging tech.
+🔍 I design and deploy AI solutions that turn complex data into actionable insights—**optimizing LLMs**, building **scalable ML pipelines**, and applying **Bayesian and statistical modeling** across healthcare, finance, and emerging tech.
 
-💼 I Help Organizations:
-- Translate ML innovation into business value
-- Build scalable AI/MLOps infrastructure
-- Drive insights via data mining & predictive analytics
-- Automate operations, marketing & product workflows
-- Align AI with real-world, people-centered impact
-
-🧠 Core Skills:
-- AI/ML: GPT, RAG (DPR, embeddings), NLP, Generative AI
-- Data Science: Bayesian modeling, predictive analytics
-- MLOps: CI/CD, model lifecycle, workflow orchestration
-- Stack: Python, R, SQL, Spark, Azure, AWS, Databricks
-- Tools: Tableau, Power BI, QlikView
-- Leadership: Cross-functional AI delivery, mentoring
-
-Open to consulting, collaboration, and partnerships in AI, NLP, and data-driven transformation.
 ---
+
+### 💼 I Help Organizations:
+- 🔁 Translate machine learning innovations into **business value**
+- ⚙️ Build and maintain **scalable AI/MLOps infrastructure**
+- 📊 Drive insights through **data mining** and **predictive analytics**
+- 🤖 Automate workflows across operations, marketing, and strategy
+- 🎯 Align AI capabilities with **real-world, people-centered impact**
+
+---
+
+### 🧠 Core Skills
+
+- **AI/ML**: GPT, RAG (DPR, embeddings), NLP, Generative AI  
+- **Data Science**: Bayesian modeling, statistical learning, predictive analytics  
+- **MLOps**: CI/CD pipelines, model lifecycle, orchestration workflows  
+- **Languages & Stack**: Python, R, SQL, Spark, Azure, AWS, Databricks  
+- **Visualization Tools**: Tableau, Power BI, QlikView  
+- **Leadership**: Cross-functional delivery, mentoring, strategic alignment
+
+---
+
+📣 *Open to consulting, collaboration, and partnerships in AI, NLP, and data-driven transformation.*
+
 
 ---
 
