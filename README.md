@@ -75,6 +75,24 @@ Open to consulting, collaboration, and partnerships in AI, NLP, and data-driven 
 
 ---
 
+---
+
+### 📚 Selected Research Publications
+
+> **Peer-Reviewed Work Integrating AI, Bayesian Methods, and Applied Mathematics**
+
+| Title | Journal | Year | DOI |
+|--|--|--|--|
+| **Hybrid Naïve Bayes Models for Scam Detection** | *IEEE Access* | 2025 | [10.1109/access.2025.3569216](https://doi.org/10.1109/access.2025.3569216) |
+| **Enhancing Autonomous Systems with Bayesian Neural Networks** | *Frontiers in Built Environment* | 2025 | [10.3389/fbuil.2025.1597255](https://doi.org/10.3389/fbuil.2025.1597255) |
+| **Application of Bayesian Neural Networks in Healthcare** | *Machine Learning and Knowledge Extraction* | 2024 | [10.3390/make6040127](https://doi.org/10.3390/make6040127) |
+| **Graph Theory for Emergency Response Logistics** | *Journal of Mathematics Research* | 2024 | [10.5539/jmr.v16n4p1](https://doi.org/10.5539/jmr.v16n4p1) |
+| **A Comparative Study of Optimization Techniques on the Rosenbrock Function** | *Open Journal of Optimization* | 2024 | [10.4236/ojop.2024.133004](https://doi.org/10.4236/ojop.2024.133004) |
+
+> *More papers coming soon — merging AI theory with real-world impact.*
+
+
+
 
 ### 🖥️ Open-Source Projects
 <table>
